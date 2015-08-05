@@ -47,7 +47,7 @@
               </form>
           ";
 
-          return $app['twig']->render('tasks.twig');
+          return $app['twig']->render('tasks.html.twig', array('tasks' => Task::getAll()));
     });
 
     $app->post("/tasks", function() {
