@@ -2,7 +2,7 @@
 
 ##### Simple to do list in Silex, 08/05/15
 
-#### By Deron Johnson and Don Schemmel
+#### By Don Schemmel
 
 ## Description
 
@@ -28,7 +28,7 @@ HTML
 
 ### Legal
 
-Copyright (c) 2015 **_Deron Johnson and Don Schemmel_**
+Copyright (c) 2015 **_Don Schemmel_**
 
 This software is licensed under the MIT license.
 
